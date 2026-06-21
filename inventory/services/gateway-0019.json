@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "storage",
+  "region": "eu-central",
+  "record": "0019",
+  "updated": "2026-06-21",
+  "priority": "normal"
+}
