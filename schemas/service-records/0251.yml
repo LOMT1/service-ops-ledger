@@ -1,0 +1,10 @@
+record:
+  id: "0251"
+  service: "collector"
+  owner: "billing"
+  region: "us-east"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
