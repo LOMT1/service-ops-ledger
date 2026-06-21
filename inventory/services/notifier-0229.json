@@ -1,0 +1,8 @@
+{
+  "service": "notifier",
+  "owner": "routing",
+  "region": "eu-central",
+  "record": "0229",
+  "updated": "2026-06-21",
+  "priority": "normal"
+}
