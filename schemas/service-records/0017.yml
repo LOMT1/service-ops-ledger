@@ -1,0 +1,10 @@
+record:
+  id: "0017"
+  service: "gateway"
+  owner: "security"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
