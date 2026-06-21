@@ -1,0 +1,8 @@
+{
+  "service": "scheduler",
+  "owner": "observability",
+  "region": "internal",
+  "record": "0247",
+  "updated": "2026-06-21",
+  "priority": "elevated"
+}
