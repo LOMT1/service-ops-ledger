@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "billing",
+  "region": "local-edge",
+  "record": "0289",
+  "updated": "2026-06-21",
+  "priority": "normal"
+}
