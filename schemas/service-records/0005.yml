@@ -1,0 +1,10 @@
+record:
+  id: "0005"
+  service: "collector"
+  owner: "observability"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
