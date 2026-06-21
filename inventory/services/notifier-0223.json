@@ -1,0 +1,8 @@
+{
+  "service": "notifier",
+  "owner": "platform",
+  "region": "internal",
+  "record": "0223",
+  "updated": "2026-06-21",
+  "priority": "scheduled"
+}
