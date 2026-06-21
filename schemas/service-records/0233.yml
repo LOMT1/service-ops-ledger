@@ -1,0 +1,10 @@
+record:
+  id: "0233"
+  service: "scheduler"
+  owner: "observability"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
