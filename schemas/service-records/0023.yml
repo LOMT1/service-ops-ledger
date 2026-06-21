@@ -1,0 +1,10 @@
+record:
+  id: "0023"
+  service: "scheduler"
+  owner: "security"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
