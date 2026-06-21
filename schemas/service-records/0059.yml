@@ -1,0 +1,10 @@
+record:
+  id: "0059"
+  service: "indexer"
+  owner: "security"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
