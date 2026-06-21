@@ -1,0 +1,10 @@
+record:
+  id: "0083"
+  service: "indexer"
+  owner: "billing"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
