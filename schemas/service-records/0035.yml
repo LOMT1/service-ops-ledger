@@ -1,0 +1,10 @@
+record:
+  id: "0035"
+  service: "gateway"
+  owner: "billing"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
