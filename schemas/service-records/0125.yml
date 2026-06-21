@@ -1,0 +1,10 @@
+record:
+  id: "0125"
+  service: "gateway"
+  owner: "storage"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
