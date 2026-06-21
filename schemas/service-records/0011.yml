@@ -1,0 +1,10 @@
+record:
+  id: "0011"
+  service: "collector"
+  owner: "billing"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
