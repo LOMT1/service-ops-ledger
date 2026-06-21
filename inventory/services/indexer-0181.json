@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "storage",
+  "region": "backup-ring",
+  "record": "0181",
+  "updated": "2026-06-21",
+  "priority": "elevated"
+}
