@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "observability",
+  "region": "backup-ring",
+  "record": "0163",
+  "updated": "2026-06-21",
+  "priority": "elevated"
+}
