@@ -1,0 +1,10 @@
+record:
+  id: "0281"
+  service: "collector"
+  owner: "storage"
+  region: "us-east"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
