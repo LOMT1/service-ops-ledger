@@ -1,0 +1,8 @@
+{
+  "service": "collector",
+  "owner": "platform",
+  "region": "us-east",
+  "record": "0043",
+  "updated": "2026-06-21",
+  "priority": "scheduled"
+}
