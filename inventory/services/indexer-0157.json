@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "observability",
+  "region": "internal",
+  "record": "0157",
+  "updated": "2026-06-21",
+  "priority": "normal"
+}
