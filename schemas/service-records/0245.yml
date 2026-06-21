@@ -1,0 +1,10 @@
+record:
+  id: "0245"
+  service: "collector"
+  owner: "security"
+  region: "backup-ring"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
