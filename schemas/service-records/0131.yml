@@ -1,0 +1,10 @@
+record:
+  id: "0131"
+  service: "notifier"
+  owner: "observability"
+  region: "us-east"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
