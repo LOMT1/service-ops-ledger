@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "storage",
+  "region": "internal",
+  "record": "0115",
+  "updated": "2026-06-21",
+  "priority": "normal"
+}
