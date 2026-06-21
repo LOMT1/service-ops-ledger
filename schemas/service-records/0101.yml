@@ -1,0 +1,10 @@
+record:
+  id: "0101"
+  service: "gateway"
+  owner: "billing"
+  region: "us-east"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
