@@ -1,0 +1,10 @@
+record:
+  id: "0185"
+  service: "notifier"
+  owner: "storage"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
