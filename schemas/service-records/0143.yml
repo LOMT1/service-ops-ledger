@@ -1,0 +1,10 @@
+record:
+  id: "0143"
+  service: "notifier"
+  owner: "platform"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
