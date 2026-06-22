@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "security",
+  "region": "backup-ring",
+  "record": "0445",
+  "updated": "2026-06-22",
+  "priority": "scheduled"
+}
