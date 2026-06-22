@@ -1,0 +1,10 @@
+record:
+  id: "0425"
+  service: "portal"
+  owner: "security"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
