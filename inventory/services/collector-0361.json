@@ -1,0 +1,8 @@
+{
+  "service": "collector",
+  "owner": "observability",
+  "region": "us-east",
+  "record": "0361",
+  "updated": "2026-06-22",
+  "priority": "normal"
+}
