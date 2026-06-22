@@ -1,0 +1,8 @@
+{
+  "service": "portal",
+  "owner": "security",
+  "region": "internal",
+  "record": "0493",
+  "updated": "2026-06-22",
+  "priority": "scheduled"
+}
