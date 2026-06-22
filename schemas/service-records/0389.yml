@@ -1,0 +1,10 @@
+record:
+  id: "0389"
+  service: "portal"
+  owner: "observability"
+  region: "backup-ring"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
