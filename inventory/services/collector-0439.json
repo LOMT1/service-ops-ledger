@@ -1,0 +1,8 @@
+{
+  "service": "collector",
+  "owner": "platform",
+  "region": "local-edge",
+  "record": "0439",
+  "updated": "2026-06-22",
+  "priority": "elevated"
+}
