@@ -1,0 +1,10 @@
+record:
+  id: "0473"
+  service: "notifier"
+  owner: "routing"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
