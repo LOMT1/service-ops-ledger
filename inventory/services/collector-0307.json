@@ -1,0 +1,8 @@
+{
+  "service": "collector",
+  "owner": "security",
+  "region": "eu-central",
+  "record": "0307",
+  "updated": "2026-06-22",
+  "priority": "normal"
+}
