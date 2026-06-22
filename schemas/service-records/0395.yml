@@ -1,0 +1,10 @@
+record:
+  id: "0395"
+  service: "gateway"
+  owner: "storage"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
