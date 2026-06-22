@@ -1,0 +1,8 @@
+{
+  "service": "notifier",
+  "owner": "security",
+  "region": "local-edge",
+  "record": "0295",
+  "updated": "2026-06-22",
+  "priority": "normal"
+}
