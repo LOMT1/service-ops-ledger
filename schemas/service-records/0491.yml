@@ -1,0 +1,10 @@
+record:
+  id: "0491"
+  service: "scheduler"
+  owner: "billing"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
