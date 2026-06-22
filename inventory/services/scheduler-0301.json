@@ -1,0 +1,8 @@
+{
+  "service": "scheduler",
+  "owner": "storage",
+  "region": "internal",
+  "record": "0301",
+  "updated": "2026-06-22",
+  "priority": "elevated"
+}
