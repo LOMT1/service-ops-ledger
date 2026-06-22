@@ -1,0 +1,8 @@
+{
+  "service": "scheduler",
+  "owner": "billing",
+  "region": "eu-central",
+  "record": "0367",
+  "updated": "2026-06-22",
+  "priority": "scheduled"
+}
