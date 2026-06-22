@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "security",
+  "region": "backup-ring",
+  "record": "0331",
+  "updated": "2026-06-22",
+  "priority": "normal"
+}
