@@ -1,0 +1,8 @@
+{
+  "service": "collector",
+  "owner": "security",
+  "region": "backup-ring",
+  "record": "0397",
+  "updated": "2026-06-22",
+  "priority": "elevated"
+}
