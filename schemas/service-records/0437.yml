@@ -1,0 +1,10 @@
+record:
+  id: "0437"
+  service: "notifier"
+  owner: "storage"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
