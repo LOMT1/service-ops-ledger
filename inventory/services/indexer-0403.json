@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "routing",
+  "region": "us-east",
+  "record": "0403",
+  "updated": "2026-06-22",
+  "priority": "elevated"
+}
