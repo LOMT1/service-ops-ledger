@@ -1,0 +1,8 @@
+{
+  "service": "collector",
+  "owner": "security",
+  "region": "local-edge",
+  "record": "0379",
+  "updated": "2026-06-22",
+  "priority": "scheduled"
+}
