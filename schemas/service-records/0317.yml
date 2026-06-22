@@ -1,0 +1,10 @@
+record:
+  id: "0317"
+  service: "portal"
+  owner: "security"
+  region: "us-east"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
