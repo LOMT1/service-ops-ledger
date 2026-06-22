@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "platform",
+  "region": "internal",
+  "record": "0487",
+  "updated": "2026-06-22",
+  "priority": "scheduled"
+}
