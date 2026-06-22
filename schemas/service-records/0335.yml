@@ -1,0 +1,10 @@
+record:
+  id: "0335"
+  service: "scheduler"
+  owner: "routing"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
