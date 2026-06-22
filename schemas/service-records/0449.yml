@@ -1,0 +1,10 @@
+record:
+  id: "0449"
+  service: "indexer"
+  owner: "routing"
+  region: "us-east"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
