@@ -1,0 +1,10 @@
+record:
+  id: "0299"
+  service: "indexer"
+  owner: "storage"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
