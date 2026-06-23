@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "platform",
+  "region": "us-east",
+  "record": "0727",
+  "updated": "2026-06-23",
+  "priority": "elevated"
+}
