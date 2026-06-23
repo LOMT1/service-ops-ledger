@@ -1,0 +1,10 @@
+record:
+  id: "0887"
+  service: "collector"
+  owner: "billing"
+  region: "backup-ring"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
