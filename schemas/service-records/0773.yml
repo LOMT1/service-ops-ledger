@@ -1,0 +1,10 @@
+record:
+  id: "0773"
+  service: "portal"
+  owner: "platform"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
