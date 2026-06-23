@@ -1,0 +1,8 @@
+{
+  "service": "notifier",
+  "owner": "billing",
+  "region": "eu-central",
+  "record": "0715",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
