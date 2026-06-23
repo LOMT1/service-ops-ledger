@@ -1,0 +1,10 @@
+record:
+  id: "0605"
+  service: "portal"
+  owner: "security"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
