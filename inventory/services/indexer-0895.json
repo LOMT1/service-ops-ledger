@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "routing",
+  "region": "local-edge",
+  "record": "0895",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
