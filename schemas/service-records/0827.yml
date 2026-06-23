@@ -1,0 +1,10 @@
+record:
+  id: "0827"
+  service: "notifier"
+  owner: "security"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
