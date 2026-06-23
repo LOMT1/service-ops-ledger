@@ -1,0 +1,10 @@
+record:
+  id: "0671"
+  service: "notifier"
+  owner: "billing"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
