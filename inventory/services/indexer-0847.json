@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "routing",
+  "region": "backup-ring",
+  "record": "0847",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
