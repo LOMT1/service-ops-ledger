@@ -1,0 +1,10 @@
+record:
+  id: "0629"
+  service: "indexer"
+  owner: "billing"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
