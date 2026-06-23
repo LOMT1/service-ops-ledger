@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "storage",
+  "region": "local-edge",
+  "record": "0883",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
