@@ -1,0 +1,10 @@
+record:
+  id: "0563"
+  service: "indexer"
+  owner: "billing"
+  region: "backup-ring"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
