@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "routing",
+  "region": "backup-ring",
+  "record": "0523",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
