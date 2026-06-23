@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "observability",
+  "region": "local-edge",
+  "record": "0805",
+  "updated": "2026-06-23",
+  "priority": "normal"
+}
