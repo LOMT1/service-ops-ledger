@@ -1,0 +1,10 @@
+record:
+  id: "0845"
+  service: "gateway"
+  owner: "security"
+  region: "backup-ring"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
