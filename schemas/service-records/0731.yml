@@ -1,0 +1,10 @@
+record:
+  id: "0731"
+  service: "collector"
+  owner: "storage"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
