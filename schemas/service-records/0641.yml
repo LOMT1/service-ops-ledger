@@ -1,0 +1,10 @@
+record:
+  id: "0641"
+  service: "scheduler"
+  owner: "platform"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
