@@ -1,0 +1,8 @@
+{
+  "service": "scheduler",
+  "owner": "platform",
+  "region": "backup-ring",
+  "record": "0745",
+  "updated": "2026-06-23",
+  "priority": "elevated"
+}
