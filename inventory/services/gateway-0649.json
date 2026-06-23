@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "billing",
+  "region": "local-edge",
+  "record": "0649",
+  "updated": "2026-06-23",
+  "priority": "elevated"
+}
