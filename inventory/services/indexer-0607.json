@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "observability",
+  "region": "local-edge",
+  "record": "0607",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
