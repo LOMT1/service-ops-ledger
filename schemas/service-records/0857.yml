@@ -1,0 +1,10 @@
+record:
+  id: "0857"
+  service: "indexer"
+  owner: "billing"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
