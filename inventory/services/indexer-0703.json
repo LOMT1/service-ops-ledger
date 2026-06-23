@@ -1,0 +1,8 @@
+{
+  "service": "indexer",
+  "owner": "observability",
+  "region": "eu-central",
+  "record": "0703",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
