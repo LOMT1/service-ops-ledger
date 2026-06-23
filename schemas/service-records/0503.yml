@@ -1,0 +1,10 @@
+record:
+  id: "0503"
+  service: "collector"
+  owner: "routing"
+  region: "us-east"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
