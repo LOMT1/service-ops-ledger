@@ -1,0 +1,10 @@
+record:
+  id: "0821"
+  service: "indexer"
+  owner: "security"
+  region: "backup-ring"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
