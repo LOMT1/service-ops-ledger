@@ -1,0 +1,4 @@
+metric,value,unit
+request_window,25,hours
+queue_depth,8,items
+available_capacity,88,percent
