@@ -1,0 +1,8 @@
+{
+  "service": "scheduler",
+  "owner": "billing",
+  "region": "local-edge",
+  "record": "0889",
+  "updated": "2026-06-23",
+  "priority": "elevated"
+}
