@@ -1,0 +1,10 @@
+record:
+  id: "0653"
+  service: "indexer"
+  owner: "platform"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
