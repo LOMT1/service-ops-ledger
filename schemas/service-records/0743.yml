@@ -1,0 +1,10 @@
+record:
+  id: "0743"
+  service: "collector"
+  owner: "security"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
