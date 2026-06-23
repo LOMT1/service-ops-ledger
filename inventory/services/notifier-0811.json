@@ -1,0 +1,8 @@
+{
+  "service": "notifier",
+  "owner": "storage",
+  "region": "eu-central",
+  "record": "0811",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
