@@ -1,0 +1,10 @@
+record:
+  id: "0539"
+  service: "indexer"
+  owner: "routing"
+  region: "local-edge"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
