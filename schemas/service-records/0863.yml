@@ -1,0 +1,10 @@
+record:
+  id: "0863"
+  service: "gateway"
+  owner: "billing"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
