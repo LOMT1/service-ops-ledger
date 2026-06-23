@@ -1,0 +1,8 @@
+{
+  "service": "portal",
+  "owner": "storage",
+  "region": "backup-ring",
+  "record": "0679",
+  "updated": "2026-06-23",
+  "priority": "scheduled"
+}
