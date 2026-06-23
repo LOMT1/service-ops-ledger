@@ -1,0 +1,8 @@
+{
+  "service": "scheduler",
+  "owner": "observability",
+  "region": "backup-ring",
+  "record": "0589",
+  "updated": "2026-06-23",
+  "priority": "normal"
+}
