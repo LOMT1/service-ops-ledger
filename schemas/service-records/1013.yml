@@ -1,0 +1,10 @@
+record:
+  id: "1013"
+  service: "indexer"
+  owner: "routing"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
