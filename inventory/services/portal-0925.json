@@ -1,0 +1,8 @@
+{
+  "service": "portal",
+  "owner": "observability",
+  "region": "backup-ring",
+  "record": "0925",
+  "updated": "2026-06-24",
+  "priority": "elevated"
+}
