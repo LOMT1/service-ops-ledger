@@ -1,0 +1,10 @@
+record:
+  id: "0953"
+  service: "collector"
+  owner: "routing"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
