@@ -1,0 +1,10 @@
+record:
+  id: "0965"
+  service: "indexer"
+  owner: "routing"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
