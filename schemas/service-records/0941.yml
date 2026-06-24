@@ -1,0 +1,10 @@
+record:
+  id: "0941"
+  service: "notifier"
+  owner: "routing"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
