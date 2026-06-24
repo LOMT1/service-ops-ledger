@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "security",
+  "region": "internal",
+  "record": "0913",
+  "updated": "2026-06-24",
+  "priority": "scheduled"
+}
