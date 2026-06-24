@@ -1,0 +1,10 @@
+record:
+  id: "0917"
+  service: "scheduler"
+  owner: "security"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
