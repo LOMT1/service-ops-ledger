@@ -1,0 +1,8 @@
+{
+  "service": "notifier",
+  "owner": "storage",
+  "region": "local-edge",
+  "record": "1009",
+  "updated": "2026-06-24",
+  "priority": "normal"
+}
