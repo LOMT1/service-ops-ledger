@@ -1,0 +1,10 @@
+record:
+  id: "0935"
+  service: "gateway"
+  owner: "routing"
+  region: "internal"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
