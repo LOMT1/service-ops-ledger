@@ -1,0 +1,8 @@
+{
+  "service": "collector",
+  "owner": "billing",
+  "region": "eu-central",
+  "record": "0997",
+  "updated": "2026-06-24",
+  "priority": "elevated"
+}
