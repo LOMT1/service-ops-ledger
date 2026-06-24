@@ -1,0 +1,8 @@
+{
+  "service": "gateway",
+  "owner": "routing",
+  "region": "us-east",
+  "record": "0991",
+  "updated": "2026-06-24",
+  "priority": "scheduled"
+}
