@@ -1,0 +1,10 @@
+record:
+  id: "0947"
+  service: "indexer"
+  owner: "security"
+  region: "eu-central"
+  fields:
+    - service
+    - owner
+    - region
+    - updated
