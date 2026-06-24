@@ -1,0 +1,8 @@
+{
+  "service": "scheduler",
+  "owner": "security",
+  "region": "internal",
+  "record": "0967",
+  "updated": "2026-06-24",
+  "priority": "normal"
+}
